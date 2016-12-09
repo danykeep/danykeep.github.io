@@ -344,7 +344,7 @@ http://www.funnycong.ru/elektronniy-dokumentooborot/osobennosti-elektronnogo-dok
 
 Версии
 
-Согласование.
+ГОТОВО: Согласование.
 
 Повторная регистрация.
 
