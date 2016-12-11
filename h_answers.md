@@ -370,3 +370,7 @@ http://www.funnycong.ru/elektronniy-dokumentooborot/osobennosti-elektronnogo-dok
 Повторная регистрация.
 
 Механизм защиты повторной регистрации.
+
+Что такое группы доступа, для чего они нужны.
+
+Что такое роли, для чего они нужны.
