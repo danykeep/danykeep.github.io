@@ -359,8 +359,6 @@ http://www.funnycong.ru/elektronniy-dokumentooborot/osobennosti-elektronnogo-dok
 
 ГОТОВО: Согласование.
 
-Повторная регистрация.
-
 ГОТОВО: Что такое группы доступа, для чего они нужны.
 
 ГОТОВО: Что такое роли, для чего они нужны.
