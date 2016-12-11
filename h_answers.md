@@ -349,7 +349,7 @@ Admin_manual
 ЭЦП виды и т.п.
 http://www.funnycong.ru/elektronniy-dokumentooborot/osobennosti-elektronnogo-dokumentooborota
 
-Приоритет нумераторов
+
 
 Задачи
 
