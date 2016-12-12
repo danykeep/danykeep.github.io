@@ -346,7 +346,7 @@ Admin_manual
 
 Том, опись, классификатор, нумератор дел, дело.
 
-ЭЦП виды и т.п.
+ЭЦП виды и т.п.  
 http://www.funnycong.ru/elektronniy-dokumentooborot/osobennosti-elektronnogo-dokumentooborota
 
 
