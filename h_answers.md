@@ -338,16 +338,3 @@ Admin_manual
 
 ЭЦП виды и т.п.  
 http://www.funnycong.ru/elektronniy-dokumentooborot/osobennosti-elektronnogo-dokumentooborota
-
-
-Задачи
-
-Роли (+определение)
-
-ГОТОВО: Версии
-
-ГОТОВО: Согласование.
-
-ГОТОВО: Что такое группы доступа, для чего они нужны.
-
-ГОТОВО: Что такое роли, для чего они нужны.
